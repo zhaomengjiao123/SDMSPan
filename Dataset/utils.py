@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Auther   : Mingsong Li (lms-07)
-# @Time     : 2023-May
-# @Address  : Time Lab @ SDU
-# @FileName : utils.py
-# @Project  : LGTEUN (Pan-sharpening), IJCAI 2023
-
 from osgeo import gdal
 from osgeo import osr
 import scipy.io as sio
