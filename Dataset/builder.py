@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Auther   : Mingsong Li (lms-07)
-# @Time     : 2023-May
-# @Address  : Time Lab @ SDU
-# @FileName : builder.py
-# @Project  : LGTEUN (Pan-sharpening), IJCAI 2023
-
 from mmcv.utils import Registry
 from mmcv import Config
 import torch.utils.data as data
